@@ -1,1 +1,0 @@
-raw data used to create synthetic 
